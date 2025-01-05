@@ -1,6 +1,6 @@
 # AcousticEmission-Software-Parametrization
 
-# Waveform Parametrization Tool
+
 
 This project processes waveform data for Acoustic Emission analysis. It provides a GUI for selecting input/output folders, setting a threshold, HDT waveform threshold, and processing waveforms.
 
